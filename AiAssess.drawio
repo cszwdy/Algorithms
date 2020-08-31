@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-31T07:37:04.406Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="UDGLd9NbKQLgnOJoPQoD" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-31T07:41:10.685Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="PkQRHgD10FzgcmpKQLwY" version="13.6.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1300" dy="910" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="910" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -247,24 +247,6 @@
         <mxCell id="EktMaBMBKfIOvWvTAoK1-55" value="英文离线评测" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1140" y="1240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EktMaBMBKfIOvWvTAoK1-58" value="开始" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1500" y="810" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="EktMaBMBKfIOvWvTAoK1-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=block;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EktMaBMBKfIOvWvTAoK1-59" target="EktMaBMBKfIOvWvTAoK1-60">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="EktMaBMBKfIOvWvTAoK1-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EktMaBMBKfIOvWvTAoK1-59" target="EktMaBMBKfIOvWvTAoK1-61">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="EktMaBMBKfIOvWvTAoK1-59" value="语文" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1520" y="920" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="EktMaBMBKfIOvWvTAoK1-60" value="英语" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1400" y="1040" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="EktMaBMBKfIOvWvTAoK1-61" value="语文" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1600" y="1040" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="EktMaBMBKfIOvWvTAoK1-64" value="英语" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2080" y="770" width="120" height="60" as="geometry" />
         </mxCell>
@@ -357,6 +339,9 @@
         </mxCell>
         <mxCell id="EktMaBMBKfIOvWvTAoK1-94" value="内存释放" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1930" y="1575" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EktMaBMBKfIOvWvTAoK1-95" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;Interface&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- &amp;nbsp;prepare:&lt;br&gt;- &amp;nbsp;start:&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- &amp;nbsp;feed:&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- &amp;nbsp;stop:&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- &amp;nbsp;free:&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1570" y="770" width="190" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

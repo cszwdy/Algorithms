@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-31T12:35:40.257Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="iTllv_CcfZRSr3wiZfbM" version="13.6.5" type="github">
-  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="911" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2020-08-31T12:36:12.559Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="6N8HcG7vGlAJJVeixF8d" version="13.6.5" type="github" pages="2">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="AiAssess">
+    <mxGraphModel dx="1301" dy="910" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -430,6 +430,14 @@
         <mxCell id="EktMaBMBKfIOvWvTAoK1-141" value="前提：&lt;br&gt;Ai实例生命周期跟随课堂；&lt;br&gt;一个课堂示例不会同时用英语、语文。" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=28;fontColor=#3399FF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="3380" y="745" width="490" height="110" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="SafRUMJM_bvEld2-_BNq" name="Page-2">
+    <mxGraphModel dx="911" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="hymS-EP2fugsbyd51gjo-0" />
+        <mxCell id="hymS-EP2fugsbyd51gjo-1" parent="hymS-EP2fugsbyd51gjo-0" />
       </root>
     </mxGraphModel>
   </diagram>

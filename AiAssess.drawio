@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-01T00:54:49.497Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="od6-LWMT-Av3cTR2dNtY" version="13.6.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-09-01T00:55:26.003Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="MUHe8Bd9mNsX1QdV05M1" version="13.6.5" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="AiAssess">
     <mxGraphModel dx="1902" dy="1288" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -277,10 +277,10 @@
         <mxCell id="EktMaBMBKfIOvWvTAoK1-73" value="替换阿拉伯数字" style="html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2085" y="1180" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="EktMaBMBKfIOvWvTAoK1-74" value="buildText" style="html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="EktMaBMBKfIOvWvTAoK1-74" value="设置评测词" style="html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2085" y="1260" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="EktMaBMBKfIOvWvTAoK1-75" value="buildText" style="html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="EktMaBMBKfIOvWvTAoK1-75" value="设置评测词" style="html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2366" y="1260" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="EktMaBMBKfIOvWvTAoK1-76" value="设置参数" style="html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
